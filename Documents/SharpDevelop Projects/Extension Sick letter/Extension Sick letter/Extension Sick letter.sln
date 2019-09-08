@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extension Sick letter", "Extension Sick letter.csproj", "{A5E3211F-3E92-4DD7-ABE5-3FDF8B4F906E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E3211F-3E92-4DD7-ABE5-3FDF8B4F906E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E3211F-3E92-4DD7-ABE5-3FDF8B4F906E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E3211F-3E92-4DD7-ABE5-3FDF8B4F906E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E3211F-3E92-4DD7-ABE5-3FDF8B4F906E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
